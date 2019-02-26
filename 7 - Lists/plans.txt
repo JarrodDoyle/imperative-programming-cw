@@ -1,0 +1,12 @@
+Rooms and mazes:
+- Choose number of room placement attempts
+- Generate room placements
+- Generate perfect maze
+- Place rooms on top of maze
+- Remove dead ends
+
+Cellular Automata:
+- Birth limit, death limit, chance to start alive, num of iterations
+- Can customise above
+
+TODO: UI handling stuffs, use time as seed for random!!!!!!!
